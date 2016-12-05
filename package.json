@@ -1,6 +1,6 @@
 {
   "name": "angular_image_base_64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An angular directive to load any image's base64 source ",
   "main": "angular_image_base_64.js",
   "scripts": {
@@ -10,5 +10,13 @@
     "angular"
   ],
   "author": "munzir suliman",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munzx/angular_image_base64.git"
+  },
+  "bugs": {
+    "url": "https://github.com/munzx/angular_image_base64/issues"
+  },
+  "homepage": "https://github.com/munzx/angular_image_base64#readme"
 }
