@@ -1,0 +1,14 @@
+{
+  "name": "angular_image_base_64",
+  "version": "1.0.0",
+  "description": "An angular directive to load any image's base64 source ",
+  "main": "angular_image_base_64.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "munzir suliman",
+  "license": "MIT"
+}
