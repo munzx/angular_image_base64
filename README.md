@@ -1,6 +1,6 @@
 # angular_image_base64
 
-This angular directive helps to get any image base64 data. it loads the image into the ngModel and sets the element validity as well i.e watches changes and if a file gets uploaded it set the model validity to valid and to invalid if not.
+A very light weight (500~ Bytes) angular directive that helps you get any image's base64 data. it loads the image into the ngModel and sets the element validity as well. It watches the element changes and if a file gets uploaded it set the model validity to valid and to invalid if not.
 
 # Usage
 
