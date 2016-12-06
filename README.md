@@ -4,7 +4,7 @@ This angular directive helps to get any image base64 data. it loads the image in
 
 # Usage
 
-Include the directive file to your index page, add "ngImageBase64Directive" as a dependency to your angular app, and then add "ng-image-base64" to the form file input field.
+Include the directive file to your index page, add "ngImageBase64Directive" as a dependency to your angular app, and then add "ng-image-base64" to the form file input element.
 
 
 
