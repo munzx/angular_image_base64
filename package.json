@@ -1,6 +1,6 @@
 {
   "name": "angular_image_base_64",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "An angular directive to load any image's base64 source ",
   "main": "angular_image_base_64.js",
   "scripts": {
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/munzx/angular_image_base64/issues"
   },
-  "homepage": "https://github.com/munzx/angular_image_base64#readme"
+  "homepage": "https://github.com/munzx/angular_image_base64#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.0.0"
+  }
 }
