@@ -1,6 +1,6 @@
 {
   "name": "angular_image_base_64",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "An angular directive to load any image's base64 source ",
   "main": "angular_image_base_64.js",
   "scripts": {
