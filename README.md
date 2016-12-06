@@ -2,11 +2,14 @@
 
 # Usage
 
-Include the directive file to your index page, add "ngImageBase64" as a dependency to your angular app, and then add "ng-image-base64" to the form file input field.
+Include the directive file to your index page, add "ngImageBase64Directive" as a dependency to your angular app, and then add "ng-image-base64" to the form file input field.
 
 
 
 
 #Example
-`<input type="file" id="bgImg" accept="image/*" data-ng-model="sessionInfo.image" name="image" ng-image-base64 class="form-control" required>`
+`<input type="file" accept="image/*" data-ng-model="data.image" name="image" ng-image-base64 required>`
+
+#Note
+Use accept="image/*" in your form file input element to restrict the uploading to image files only.
 
