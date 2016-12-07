@@ -5,8 +5,8 @@ A very light weight (500~ Bytes minified) angular directive that helps you get a
 
 # Usage
 
-Download the directive or use npm to get it.
-`npm install npm i angular_image_base_64`
+Download the directive or use npm to get it and save it.
+`npm i angular_image_base_64 -S`
 
 Include the directive file into your home page, add "ngImageBase64Directive" as a dependency to your angular app, and then add "ng-image-base64" to the form file input element.
 
