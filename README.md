@@ -22,8 +22,10 @@ Include the directive file into your home page, add "ngImageBase64Directive" as 
 #Example
 `<input type="file" accept="image/*" data-ng-model="data.image" name="image" ng-image-base64 required>`
 
+
 #jsfiddle snippet
 https://jsfiddle.net/MunzMan/s55qp529/22/
+
 
 #Note
 Use `accept="image/*"` in your form file input element to restrict the uploading to image files only.
